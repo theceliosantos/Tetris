@@ -2,8 +2,6 @@
 
 Clone do clássico jogo **Tetris**, desenvolvido em **Python** com **Pygame**.
 
-
-
 ---
 
 ## 📝 Descrição
@@ -19,11 +17,6 @@ O objetivo do jogo é encaixar as peças que caem (Tetriminos) para formar linha
 
 ---
 
-## ⚙️ Pré-requisitos
-
-- [Python 3.8+](https://www.python.org/downloads/)
-- [Pygame](https://www.pygame.org/news)
-
 Instale o Pygame:
 
 ```
@@ -33,7 +26,7 @@ Clone o repositório:
 
 
 Copiar código
-git clone https://github.com/seu-usuario/tetris-python.git
+git clone https://github.com/theceliosantos/Tetris.git
 Entre na pasta do projeto:
 
 
