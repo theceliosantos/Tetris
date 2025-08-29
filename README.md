@@ -2,17 +2,7 @@
 
 Clone do clássico jogo **Tetris**, desenvolvido em **Python** com **Pygame**.
 
----
 
-## 📌 Índice
-
-- [Descrição](#descrição)
-- [Pré-requisitos](#pré-requisitos)
-- [Instalação](#instalação)
-- [Como Jogar](#como-jogar)
-- [Controles](#controles)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
 
 ---
 
